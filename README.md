@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI Soccer Fatigue Tracker Project
 
 ## Introduction
