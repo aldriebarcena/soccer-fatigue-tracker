@@ -1,1 +1,1 @@
-# soccer-fatigue-tracker
+# Soccer Fatigue Tracker
