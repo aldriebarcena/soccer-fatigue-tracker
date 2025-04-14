@@ -1,0 +1,5 @@
+*__pycahce__*
+*.pyc
+input_videos/soccer_video.mp4
+output_videos/output_video.avi
+models/best.pt
