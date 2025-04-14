@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Soccer Fatigue Tracker Project
 
 ## Introduction
